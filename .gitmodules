@@ -1,0 +1,3 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/Pratyaksh7/luxehub-Microservices.git
